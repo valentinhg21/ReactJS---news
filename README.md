@@ -1,9 +1,9 @@
 ## Description
-This is a project where you can search news from your country.
+En este proyecto encontraras las noticias de tu país.
 
-I used API from https://newsapi.org/
+API usada: https://newsapi.org/
 
-Preview https://newsjs.netlify.app
+Visualización: https://newsjs.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
